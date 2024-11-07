@@ -166,7 +166,7 @@ bool UsbController::enableUsbPorts()
 
 bool UsbController::disableUsbPorts()
 {
-    qDebug() << "Attempting to disable USB ports...";
+    qDebug() << "Attempting to disable USB ports....";
 
     // Disable USB hub controllers first
     bool hubSuccess = changeDeviceState(GUID_USB_HUB, false);

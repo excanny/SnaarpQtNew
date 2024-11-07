@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Snaarp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Snaarp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Snaarp-Release-019a1429c99c64da08d9.json",
+					"name" : "Snaarp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Snaarp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Snaarp_autogen-Release-eb0a42c3b23c65272983.json",
+					"name" : "Snaarp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Snaarp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Snaarp_autogen_timestamp_deps-Release-be7c6b8c8bd31e247286.json",
+					"name" : "Snaarp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/goihemere/Documents/MyProjects/QtProjects/Snaarp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release",
+		"source" : "C:/Users/goihemere/Documents/MyProjects/QtProjects/Snaarp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
